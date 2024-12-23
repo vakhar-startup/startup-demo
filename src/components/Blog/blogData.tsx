@@ -40,7 +40,7 @@ const blogData: Blog[] = [
       image: "/images/blog/author-03.png",
       designation: "Graphic Designer",
     },
-    tags: ["AI Assesment"],
+    tags: ["Learners"],
     publishDate: "2025",
   },
 ];
